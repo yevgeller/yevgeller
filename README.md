@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yevgeller
 - 👀 I’m interested in C#, .Net, CSS, JavaScript
-- 🌱 I’m currently learning ASP.Net Core and JavaScript and ~~vue.js~~ React.js 
+- 🌱 I’m currently learning ASP.Net Core and JavaScript and ~~vue.js~~ ~~React.js~~ vue.js
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me is yevgeller at gmail
 
